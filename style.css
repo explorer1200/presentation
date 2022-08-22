@@ -1,11 +1,21 @@
 h1 {
-  background-color: green;
+  color : blue;
 }
 
-div {
-  background-color: lightblue;
+.container1 {
+  background-color: white;
+  /*opacity: 0.5;*/
+}
+
+.container2 {
+  background-color: white;
 }
 
 p {
-  background-color: yellow;
+  /*background-color: yellow;*/
+}
+
+body {
+	 background-image: url("background.jpeg");
+	 text-align: center;
 }
