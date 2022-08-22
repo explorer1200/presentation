@@ -1,0 +1,13 @@
+nom: Pauvert
+
+prénom: Sébastien
+
+age: 48 ans
+
+ancienne profession: monteur haute tension
+
+dernier diplome: DUFI (diplome universitaire de formateur en inforatique)
+
+attente: Appréhender le métier de testeur, les techniques de bases et l'environnement de travail. Obtenir la certification ISTQB.
+	 Pour la suite peut être envisager une nouvelle formation plus spécifique et/ou accéder à l'emploi et être dans une démarche de formation continue.
+
